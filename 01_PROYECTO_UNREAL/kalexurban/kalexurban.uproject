@@ -8,6 +8,11 @@
       "Name": "kalexurban",
       "Type": "Runtime",
       "LoadingPhase": "Default"
+    },
+    {
+      "Name": "kalexurbanEditor",
+      "Type": "Editor",
+      "LoadingPhase": "Default"
     }
   ],
   "Plugins": [
@@ -28,8 +33,8 @@
       "Enabled": true
     },
     {
-        "Name": "PythonScriptPlugin",
-        "Enabled": true
+      "Name": "PythonScriptPlugin",
+      "Enabled": true
     }
   ],
   "TargetPlatforms": [],

@@ -11,5 +11,6 @@ public class kalexurbanEditorTarget : TargetRules
         IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_6;
 
         ExtraModuleNames.Add("kalexurban");
+        ExtraModuleNames.Add("kalexurbanEditor");
     }
 }

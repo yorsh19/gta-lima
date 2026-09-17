@@ -11,10 +11,6 @@
 #include "City/KalexUrbanZone.h"
 #include "Components/BoxComponent.h"
 #include "LandscapeProxy.h"
-#include "GameFramework/PlayerStart.h"
-#include "GameFramework/Pawn.h"
-#include "GameFramework/PlayerController.h"
-#include "TimerManager.h"
 
 #include "DrawDebugHelpers.h"
 
@@ -42,54 +38,6 @@ ALimaCityGenerator::ALimaCityGenerator()
 
     RootComponent = SceneRoot;
 }
-
-void ALimaCityGenerator::BeginPlay()
-{
-    Super::BeginPlay();
-
-    if (!bForceExactPlayerStartOnPlay) return;
-
-    // Delay one frame so the Blueprint GameMode finishes its normal RestartPlayer path first.
-    GetWorldTimerManager().SetTimerForNextTick(FTimerDelegate::CreateWeakLambda(this, [this]()
-    {
-        UWorld* World = GetWorld();
-        if (!World) return;
-
-        APlayerStart* Target = PreferredPlayerStart.Get();
-        if (!Target)
-        {
-            TArray<APlayerStart*> Starts;
-            for (TActorIterator<APlayerStart> It(World); It; ++It)
-            {
-                if (IsValid(*It)) Starts.Add(*It);
-            }
-
-            if (Starts.Num() == 1)
-            {
-                Target = Starts[0];
-            }
-            else
-            {
-                UE_LOG(LogTemp, Warning, TEXT("KALEX SPAWN V5.3.3 | Exact spawn skipped: PlayerStarts=%d. Assign PreferredPlayerStart on LimaCityGenerator."), Starts.Num());
-                return;
-            }
-        }
-
-        APlayerController* PC = World->GetFirstPlayerController();
-        APawn* Pawn = PC ? PC->GetPawn() : nullptr;
-        if (!Pawn || !IsValid(Target)) return;
-
-        const FTransform StartTransform = Target->GetActorTransform();
-        Pawn->SetActorLocationAndRotation(
-            StartTransform.GetLocation(),
-            StartTransform.Rotator(),
-            false, nullptr, ETeleportType::TeleportPhysics);
-
-        UE_LOG(LogTemp, Warning, TEXT("KALEX SPAWN V5.3.3 | PlayerStart=%s Location=%s Pawn=%s"),
-            *Target->GetName(), *StartTransform.GetLocation().ToCompactString(), *Pawn->GetActorLocation().ToCompactString());
-    }));
-}
-
 
 /*
  * ================================================================

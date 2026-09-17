@@ -29,7 +29,7 @@ protected:
         const FTransform& Transform
     ) override;
 
-    virtual void BeginPlay() override;
+
 
 public:
 
@@ -413,10 +413,10 @@ public:
     /** MVP spawn correction. Does not move PlayerStart or city coordinates; it places the pawn
      *  at the selected PlayerStart after BeginPlay. If PreferredPlayerStart is null this is only
      *  applied when the level contains exactly one PlayerStart. */
-    UPROPERTY(EditAnywhere, Category = "Kalex Urban|Spawn")
-    bool bForceExactPlayerStartOnPlay = true;
+    UPROPERTY(meta=(DeprecatedProperty, DeprecationMessage="Use KalexGameMode PlayerStart tag instead."))
+    bool bForceExactPlayerStartOnPlay = false;
 
-    UPROPERTY(EditInstanceOnly, Category = "Kalex Urban|Spawn")
+    UPROPERTY(meta=(DeprecatedProperty, DeprecationMessage="Migrate this reference to the KalexStart PlayerStart tag."))
     TObjectPtr<APlayerStart> PreferredPlayerStart = nullptr;
 
     UPROPERTY(EditAnywhere, Category = "Kalex Urban|Zones")

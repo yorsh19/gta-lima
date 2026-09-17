@@ -16,7 +16,13 @@ public class kalexurban : ModuleRules
                 "EnhancedInput",
                 "Json",
                 "JsonUtilities",
-                "Landscape"
+                "Landscape",
+                "ChaosVehicles",
+                "PhysicsCore",
+                "UMG",
+                "Slate",
+                "SlateCore",
+                "Niagara"
             }
         );
 
