@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "mesh": "SM_SJL_Pole_Concrete_01",
+  "slots": [
+    "M_SJL_Concrete",
+    "M_SJL_Metal"
+  ],
+  "custom_collision": false
+}

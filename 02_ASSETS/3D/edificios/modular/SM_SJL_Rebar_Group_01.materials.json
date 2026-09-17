@@ -1,0 +1,8 @@
+{
+  "schema": 1,
+  "mesh": "SM_SJL_Rebar_Group_01",
+  "slots": [
+    "M_SJL_Metal_Rusted"
+  ],
+  "custom_collision": true
+}

@@ -1,0 +1,22 @@
+Using bundled DotNet SDK version: 8.0.300 win-x64
+Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" kalexurbanEditor Win64 Development -Project=C:/Users/yorsh/Documents/kalex/kalex-urban/01_PROYECTO_UNREAL/kalexurban/kalexurban.uproject -WaitMutex -NoHotReloadFromIDE
+Log file: C:\Users\yorsh\AppData\Local\UnrealBuildTool\Log.txt
+Building kalexurbanEditor...
+Using Visual Studio 2022 14.38.33145 toolchain (C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.38.33130) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+Determining max actions to execute in parallel (8 physical cores, 8 logical cores)
+  Executing up to 8 processes, one per physical core
+Using Unreal Build Accelerator local executor to run 4 action(s)
+  Storage capacity 40Gb
+---- Starting trace: 260915_095924 ----
+UbaSessionServer - Disable remote execution (remote sessions will finish current processes)
+------ Building 4 action(s) started ------
+[1/4] Compile [x64] LimaBuildingGenerator.cpp
+[2/4] Link [x64] UnrealEditor-kalexurban.lib
+   Creando biblioteca C:/Users/yorsh/Documents/kalex/kalex-urban/01_PROYECTO_UNREAL/kalexurban/Intermediate/Build/Win64/x64/UnrealEditor/Development/kalexurban/UnrealEditor-kalexurban.lib y objeto C:/Users/yorsh/Documents/kalex/kalex-urban/01_PROYECTO_UNREAL/kalexurban/Intermediate/Build/Win64/x64/UnrealEditor/Development/kalexurban/UnrealEditor-kalexurban.exp
+[3/4] Link [x64] UnrealEditor-kalexurban.dll
+[4/4] WriteMetadata kalexurbanEditor.target (UBA disabled)
+Trace written to file C:/Users/yorsh/AppData/Local/UnrealBuildTool/Log.uba with size 3.4kb
+Total time in Unreal Build Accelerator local executor: 2.66 seconds
+
+Result: Succeeded
+Total execution time: 3.41 seconds

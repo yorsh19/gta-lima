@@ -1,0 +1,8 @@
+{
+  "schema": 1,
+  "mesh": "SM_SJL_Cable_Segment",
+  "slots": [
+    "M_SJL_Plastic"
+  ],
+  "custom_collision": false
+}

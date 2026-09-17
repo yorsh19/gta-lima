@@ -1,0 +1,8 @@
+{
+  "schema": 1,
+  "mesh": "SM_SJL_Door_Metal_01",
+  "slots": [
+    "M_SJL_Metal"
+  ],
+  "custom_collision": false
+}

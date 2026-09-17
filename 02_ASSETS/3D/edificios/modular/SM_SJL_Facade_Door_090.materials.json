@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "mesh": "SM_SJL_Facade_Door_090",
+  "slots": [
+    "M_SJL_Brick_Red",
+    "M_SJL_Metal"
+  ],
+  "custom_collision": true
+}

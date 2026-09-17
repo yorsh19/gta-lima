@@ -1,0 +1,8 @@
+{
+  "schema": 1,
+  "mesh": "SM_SJL_Wall_Orange_300",
+  "slots": [
+    "M_SJL_Paint_Orange"
+  ],
+  "custom_collision": false
+}

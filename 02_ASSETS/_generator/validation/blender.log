@@ -1,0 +1,235 @@
+
+========================================
+ KALEX URBAN - GENERATE SJL ASSETS
+========================================
+
+Blender:
+C:\Program Files\Blender Foundation\Blender 5.2\blender.exe
+
+Generator:
+C:\Users\yorsh\Documents\kalex\kalex-urban\02_ASSETS\_generator\blender\generate_all.py
+
+
+============================================================
+KALEX URBAN
+SJL PROCEDURAL ASSET GENERATOR
+============================================================
+
+============================================================
+GENERATING: BUILDING WALLS
+============================================================
+
+FBX export starting... 'C:\\Users\\yorsh\\Documents\\kalex\\kalex-urban\\02_ASSETS\\3D\\edificios\\modular\\SM_SJL_Wall_Brick_300.fbx'
+export finished in 0.0050 sec.
+[EXPORTED] C:\Users\yorsh\Documents\kalex\kalex-urban\02_ASSETS\3D\edificios\modular\SM_SJL_Wall_Brick_300.fbx
+
+FBX export starting... 'C:\\Users\\yorsh\\Documents\\kalex\\kalex-urban\\02_ASSETS\\3D\\edificios\\modular\\SM_SJL_Wall_Brick_400.fbx'
+export finished in 0.0039 sec.
+[EXPORTED] C:\Users\yorsh\Documents\kalex\kalex-urban\02_ASSETS\3D\edificios\modular\SM_SJL_Wall_Brick_400.fbx
+
+FBX export starting... 'C:\\Users\\yorsh\\Documents\\kalex\\kalex-urban\\02_ASSETS\\3D\\edificios\\modular\\SM_SJL_Wall_Plaster_300.fbx'
+export finished in 0.0043 sec.
+[EXPORTED] C:\Users\yorsh\Documents\kalex\kalex-urban\02_ASSETS\3D\edificios\modular\SM_SJL_Wall_Plaster_300.fbx
+
+FBX export starting... 'C:\\Users\\yorsh\\Documents\\kalex\\kalex-urban\\02_ASSETS\\3D\\edificios\\modular\\SM_SJL_Wall_Blue_300.fbx'
+export finished in 0.0038 sec.
+[EXPORTED] C:\Users\yorsh\Documents\kalex\kalex-urban\02_ASSETS\3D\edificios\modular\SM_SJL_Wall_Blue_300.fbx
+
+FBX export starting... 'C:\\Users\\yorsh\\Documents\\kalex\\kalex-urban\\02_ASSETS\\3D\\edificios\\modular\\SM_SJL_Wall_Orange_300.fbx'
+export finished in 0.0042 sec.
+[EXPORTED] C:\Users\yorsh\Documents\kalex\kalex-urban\02_ASSETS\3D\edificios\modular\SM_SJL_Wall_Orange_300.fbx
+[OK] BUILDING WALLS
+
+============================================================
+GENERATING: FACADE MODULES V3
+============================================================
+Advertencia: Ningún dato de malla a unir
+
+FBX export starting... 'C:\\Users\\yorsh\\Documents\\kalex\\kalex-urban\\02_ASSETS\\3D\\edificios\\modular\\SM_SJL_Facade_Wall_050.fbx'
+export finished in 0.0042 sec.
+[EXPORTED] C:\Users\yorsh\Documents\kalex\kalex-urban\02_ASSETS\3D\edificios\modular\SM_SJL_Facade_Wall_050.fbx
+Advertencia: Ningún dato de malla a unir
+
+FBX export starting... 'C:\\Users\\yorsh\\Documents\\kalex\\kalex-urban\\02_ASSETS\\3D\\edificios\\modular\\SM_SJL_Facade_Wall_100.fbx'
+export finished in 0.0051 sec.
+[EXPORTED] C:\Users\yorsh\Documents\kalex\kalex-urban\02_ASSETS\3D\edificios\modular\SM_SJL_Facade_Wall_100.fbx
+Advertencia: Ningún dato de malla a unir
+
+FBX export starting... 'C:\\Users\\yorsh\\Documents\\kalex\\kalex-urban\\02_ASSETS\\3D\\edificios\\modular\\SM_SJL_Facade_Wall_150.fbx'
+export finished in 0.0044 sec.
+[EXPORTED] C:\Users\yorsh\Documents\kalex\kalex-urban\02_ASSETS\3D\edificios\modular\SM_SJL_Facade_Wall_150.fbx
+Advertencia: Ningún dato de malla a unir
+
+FBX export starting... 'C:\\Users\\yorsh\\Documents\\kalex\\kalex-urban\\02_ASSETS\\3D\\edificios\\modular\\SM_SJL_Facade_Wall_200.fbx'
+export finished in 0.0048 sec.
+[EXPORTED] C:\Users\yorsh\Documents\kalex\kalex-urban\02_ASSETS\3D\edificios\modular\SM_SJL_Facade_Wall_200.fbx
+
+FBX export starting... 'C:\\Users\\yorsh\\Documents\\kalex\\kalex-urban\\02_ASSETS\\3D\\edificios\\modular\\SM_SJL_Facade_Window_100.fbx'
+export finished in 0.0132 sec.
+[EXPORTED] C:\Users\yorsh\Documents\kalex\kalex-urban\02_ASSETS\3D\edificios\modular\SM_SJL_Facade_Window_100.fbx
+
+FBX export starting... 'C:\\Users\\yorsh\\Documents\\kalex\\kalex-urban\\02_ASSETS\\3D\\edificios\\modular\\SM_SJL_Facade_Window_120.fbx'
+export finished in 0.0136 sec.
+[EXPORTED] C:\Users\yorsh\Documents\kalex\kalex-urban\02_ASSETS\3D\edificios\modular\SM_SJL_Facade_Window_120.fbx
+
+FBX export starting... 'C:\\Users\\yorsh\\Documents\\kalex\\kalex-urban\\02_ASSETS\\3D\\edificios\\modular\\SM_SJL_Facade_Window_150.fbx'
+export finished in 0.0155 sec.
+[EXPORTED] C:\Users\yorsh\Documents\kalex\kalex-urban\02_ASSETS\3D\edificios\modular\SM_SJL_Facade_Window_150.fbx
+
+FBX export starting... 'C:\\Users\\yorsh\\Documents\\kalex\\kalex-urban\\02_ASSETS\\3D\\edificios\\modular\\SM_SJL_Facade_Door_090.fbx'
+export finished in 0.0069 sec.
+[EXPORTED] C:\Users\yorsh\Documents\kalex\kalex-urban\02_ASSETS\3D\edificios\modular\SM_SJL_Facade_Door_090.fbx
+
+FBX export starting... 'C:\\Users\\yorsh\\Documents\\kalex\\kalex-urban\\02_ASSETS\\3D\\edificios\\modular\\SM_SJL_Facade_Door_100.fbx'
+export finished in 0.0066 sec.
+[EXPORTED] C:\Users\yorsh\Documents\kalex\kalex-urban\02_ASSETS\3D\edificios\modular\SM_SJL_Facade_Door_100.fbx
+
+FBX export starting... 'C:\\Users\\yorsh\\Documents\\kalex\\kalex-urban\\02_ASSETS\\3D\\edificios\\modular\\SM_SJL_Facade_Garage_250.fbx'
+export finished in 0.0067 sec.
+[EXPORTED] C:\Users\yorsh\Documents\kalex\kalex-urban\02_ASSETS\3D\edificios\modular\SM_SJL_Facade_Garage_250.fbx
+
+FBX export starting... 'C:\\Users\\yorsh\\Documents\\kalex\\kalex-urban\\02_ASSETS\\3D\\edificios\\modular\\SM_SJL_Facade_Garage_300.fbx'
+export finished in 0.0065 sec.
+[EXPORTED] C:\Users\yorsh\Documents\kalex\kalex-urban\02_ASSETS\3D\edificios\modular\SM_SJL_Facade_Garage_300.fbx
+Advertencia: Ningún dato de malla a unir
+
+FBX export starting... 'C:\\Users\\yorsh\\Documents\\kalex\\kalex-urban\\02_ASSETS\\3D\\edificios\\modular\\SM_SJL_Column_025.fbx'
+export finished in 0.0041 sec.
+[EXPORTED] C:\Users\yorsh\Documents\kalex\kalex-urban\02_ASSETS\3D\edificios\modular\SM_SJL_Column_025.fbx
+Advertencia: Ningún dato de malla a unir
+
+FBX export starting... 'C:\\Users\\yorsh\\Documents\\kalex\\kalex-urban\\02_ASSETS\\3D\\edificios\\modular\\SM_SJL_Beam_025.fbx'
+export finished in 0.0040 sec.
+[EXPORTED] C:\Users\yorsh\Documents\kalex\kalex-urban\02_ASSETS\3D\edificios\modular\SM_SJL_Beam_025.fbx
+Advertencia: Ningún dato de malla a unir
+
+FBX export starting... 'C:\\Users\\yorsh\\Documents\\kalex\\kalex-urban\\02_ASSETS\\3D\\edificios\\modular\\SM_SJL_Rebar_01.fbx'
+export finished in 0.0046 sec.
+[EXPORTED] C:\Users\yorsh\Documents\kalex\kalex-urban\02_ASSETS\3D\edificios\modular\SM_SJL_Rebar_01.fbx
+
+FBX export starting... 'C:\\Users\\yorsh\\Documents\\kalex\\kalex-urban\\02_ASSETS\\3D\\edificios\\modular\\SM_SJL_Rebar_Group_01.fbx'
+export finished in 0.0068 sec.
+[EXPORTED] C:\Users\yorsh\Documents\kalex\kalex-urban\02_ASSETS\3D\edificios\modular\SM_SJL_Rebar_Group_01.fbx
+[OK] FACADE MODULES V3
+
+============================================================
+GENERATING: DOORS
+============================================================
+
+FBX export starting... 'C:\\Users\\yorsh\\Documents\\kalex\\kalex-urban\\02_ASSETS\\3D\\edificios\\puertas\\SM_SJL_Door_Metal_01.fbx'
+export finished in 0.0036 sec.
+[EXPORTED] C:\Users\yorsh\Documents\kalex\kalex-urban\02_ASSETS\3D\edificios\puertas\SM_SJL_Door_Metal_01.fbx
+
+FBX export starting... 'C:\\Users\\yorsh\\Documents\\kalex\\kalex-urban\\02_ASSETS\\3D\\edificios\\puertas\\SM_SJL_GarageDoor_01.fbx'
+export finished in 0.0039 sec.
+[EXPORTED] C:\Users\yorsh\Documents\kalex\kalex-urban\02_ASSETS\3D\edificios\puertas\SM_SJL_GarageDoor_01.fbx
+[OK] DOORS
+
+============================================================
+GENERATING: WINDOWS
+============================================================
+
+FBX export starting... 'C:\\Users\\yorsh\\Documents\\kalex\\kalex-urban\\02_ASSETS\\3D\\edificios\\ventanas\\SM_SJL_Window_Grille_01.fbx'
+export finished in 0.0036 sec.
+[EXPORTED] C:\Users\yorsh\Documents\kalex\kalex-urban\02_ASSETS\3D\edificios\ventanas\SM_SJL_Window_Grille_01.fbx
+[OK] WINDOWS
+
+============================================================
+GENERATING: ROOFS
+============================================================
+
+FBX export starting... 'C:\\Users\\yorsh\\Documents\\kalex\\kalex-urban\\02_ASSETS\\3D\\edificios\\techos\\SM_SJL_Roof_Flat_01.fbx'
+export finished in 0.0035 sec.
+[EXPORTED] C:\Users\yorsh\Documents\kalex\kalex-urban\02_ASSETS\3D\edificios\techos\SM_SJL_Roof_Flat_01.fbx
+
+FBX export starting... 'C:\\Users\\yorsh\\Documents\\kalex\\kalex-urban\\02_ASSETS\\3D\\edificios\\techos\\SM_SJL_Roof_Unfinished_01.fbx'
+export finished in 0.0040 sec.
+[EXPORTED] C:\Users\yorsh\Documents\kalex\kalex-urban\02_ASSETS\3D\edificios\techos\SM_SJL_Roof_Unfinished_01.fbx
+[OK] ROOFS
+
+============================================================
+GENERATING: BUILDING PROPS
+============================================================
+
+FBX export starting... 'C:\\Users\\yorsh\\Documents\\kalex\\kalex-urban\\02_ASSETS\\3D\\edificios\\props\\SM_SJL_WaterTank_01.fbx'
+export finished in 0.0038 sec.
+[EXPORTED] C:\Users\yorsh\Documents\kalex\kalex-urban\02_ASSETS\3D\edificios\props\SM_SJL_WaterTank_01.fbx
+
+FBX export starting... 'C:\\Users\\yorsh\\Documents\\kalex\\kalex-urban\\02_ASSETS\\3D\\edificios\\props\\SM_SJL_BrickStack_01.fbx'
+export finished in 0.0037 sec.
+[EXPORTED] C:\Users\yorsh\Documents\kalex\kalex-urban\02_ASSETS\3D\edificios\props\SM_SJL_BrickStack_01.fbx
+[OK] BUILDING PROPS
+
+============================================================
+GENERATING: ROADS
+============================================================
+
+FBX export starting... 'C:\\Users\\yorsh\\Documents\\kalex\\kalex-urban\\02_ASSETS\\3D\\infraestructura\\pistas\\SM_SJL_Road_Asphalt_2Lane.fbx'
+export finished in 0.0035 sec.
+[EXPORTED] C:\Users\yorsh\Documents\kalex\kalex-urban\02_ASSETS\3D\infraestructura\pistas\SM_SJL_Road_Asphalt_2Lane.fbx
+
+FBX export starting... 'C:\\Users\\yorsh\\Documents\\kalex\\kalex-urban\\02_ASSETS\\3D\\infraestructura\\pistas\\SM_SJL_Road_Asphalt_Narrow.fbx'
+export finished in 0.0036 sec.
+[EXPORTED] C:\Users\yorsh\Documents\kalex\kalex-urban\02_ASSETS\3D\infraestructura\pistas\SM_SJL_Road_Asphalt_Narrow.fbx
+[OK] ROADS
+
+============================================================
+GENERATING: SIDEWALKS
+============================================================
+
+FBX export starting... 'C:\\Users\\yorsh\\Documents\\kalex\\kalex-urban\\02_ASSETS\\3D\\infraestructura\\veredas\\SM_SJL_Sidewalk_100.fbx'
+export finished in 0.0040 sec.
+[EXPORTED] C:\Users\yorsh\Documents\kalex\kalex-urban\02_ASSETS\3D\infraestructura\veredas\SM_SJL_Sidewalk_100.fbx
+
+FBX export starting... 'C:\\Users\\yorsh\\Documents\\kalex\\kalex-urban\\02_ASSETS\\3D\\infraestructura\\veredas\\SM_SJL_Sidewalk_150.fbx'
+export finished in 0.0035 sec.
+[EXPORTED] C:\Users\yorsh\Documents\kalex\kalex-urban\02_ASSETS\3D\infraestructura\veredas\SM_SJL_Sidewalk_150.fbx
+[OK] SIDEWALKS
+
+============================================================
+GENERATING: CURBS
+============================================================
+
+FBX export starting... 'C:\\Users\\yorsh\\Documents\\kalex\\kalex-urban\\02_ASSETS\\3D\\infraestructura\\veredas\\SM_SJL_Curb_500.fbx'
+export finished in 0.0034 sec.
+[EXPORTED] C:\Users\yorsh\Documents\kalex\kalex-urban\02_ASSETS\3D\infraestructura\veredas\SM_SJL_Curb_500.fbx
+[OK] CURBS
+
+============================================================
+GENERATING: UTILITY POLES
+============================================================
+
+FBX export starting... 'C:\\Users\\yorsh\\Documents\\kalex\\kalex-urban\\02_ASSETS\\3D\\infraestructura\\postes\\SM_SJL_Pole_Concrete_01.fbx'
+export finished in 0.0039 sec.
+[EXPORTED] C:\Users\yorsh\Documents\kalex\kalex-urban\02_ASSETS\3D\infraestructura\postes\SM_SJL_Pole_Concrete_01.fbx
+[OK] UTILITY POLES
+
+============================================================
+GENERATING: CABLES
+============================================================
+
+FBX export starting... 'C:\\Users\\yorsh\\Documents\\kalex\\kalex-urban\\02_ASSETS\\3D\\infraestructura\\cables\\SM_SJL_Cable_Segment.fbx'
+export finished in 0.0039 sec.
+[EXPORTED] C:\Users\yorsh\Documents\kalex\kalex-urban\02_ASSETS\3D\infraestructura\cables\SM_SJL_Cable_Segment.fbx
+[OK] CABLES
+
+============================================================
+GENERATING: STREET LIGHTS
+============================================================
+
+FBX export starting... 'C:\\Users\\yorsh\\Documents\\kalex\\kalex-urban\\02_ASSETS\\3D\\infraestructura\\alumbrado\\SM_SJL_StreetLight_01.fbx'
+export finished in 0.0036 sec.
+[EXPORTED] C:\Users\yorsh\Documents\kalex\kalex-urban\02_ASSETS\3D\infraestructura\alumbrado\SM_SJL_StreetLight_01.fbx
+[OK] STREET LIGHTS
+
+============================================================
+KALEX URBAN GENERATION COMPLETE
+GENERATORS EXECUTED: 12
+============================================================
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-14 01:35:40)
+
+Blender quit
+
+========================================
+ ASSETS GENERATED SUCCESSFULLY
+========================================

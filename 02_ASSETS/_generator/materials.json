@@ -1,0 +1,218 @@
+{
+  "brick_red": {
+    "name": "M_SJL_Brick_Red",
+    "family": "Brick",
+    "color": [
+      0.42,
+      0.12,
+      0.055,
+      1
+    ],
+    "roughness": 0.9,
+    "metallic": 0
+  },
+  "brick_dark": {
+    "name": "M_SJL_Brick_Dark",
+    "family": "Brick",
+    "color": [
+      0.23,
+      0.065,
+      0.028,
+      1
+    ],
+    "roughness": 0.93,
+    "metallic": 0
+  },
+  "plaster": {
+    "name": "M_SJL_Plaster",
+    "family": "Plaster",
+    "color": [
+      0.68,
+      0.62,
+      0.52,
+      1
+    ],
+    "roughness": 0.85,
+    "metallic": 0
+  },
+  "concrete": {
+    "name": "M_SJL_Concrete",
+    "family": "Concrete",
+    "color": [
+      0.38,
+      0.38,
+      0.36,
+      1
+    ],
+    "roughness": 0.95,
+    "metallic": 0
+  },
+  "blue": {
+    "name": "M_SJL_Paint_Blue",
+    "family": "Paint",
+    "color": [
+      0.035,
+      0.2,
+      0.4,
+      1
+    ],
+    "roughness": 0.7,
+    "metallic": 0
+  },
+  "orange": {
+    "name": "M_SJL_Paint_Orange",
+    "family": "Paint",
+    "color": [
+      0.65,
+      0.22,
+      0.07,
+      1
+    ],
+    "roughness": 0.7,
+    "metallic": 0
+  },
+  "green": {
+    "name": "M_SJL_Paint_Green",
+    "family": "Paint",
+    "color": [
+      0.1,
+      0.36,
+      0.16,
+      1
+    ],
+    "roughness": 0.7,
+    "metallic": 0
+  },
+  "yellow": {
+    "name": "M_SJL_Paint_Yellow",
+    "family": "Paint",
+    "color": [
+      0.72,
+      0.52,
+      0.08,
+      1
+    ],
+    "roughness": 0.7,
+    "metallic": 0
+  },
+  "tile_white": {
+    "name": "M_SJL_Tile_White",
+    "family": "Tile",
+    "color": [
+      0.82,
+      0.82,
+      0.76,
+      1
+    ],
+    "roughness": 0.3,
+    "metallic": 0
+  },
+  "tile_blue": {
+    "name": "M_SJL_Tile_Blue",
+    "family": "Tile",
+    "color": [
+      0.09,
+      0.3,
+      0.52,
+      1
+    ],
+    "roughness": 0.3,
+    "metallic": 0
+  },
+  "tile_beige": {
+    "name": "M_SJL_Tile_Beige",
+    "family": "Tile",
+    "color": [
+      0.65,
+      0.51,
+      0.33,
+      1
+    ],
+    "roughness": 0.3,
+    "metallic": 0
+  },
+  "metal": {
+    "name": "M_SJL_Metal",
+    "family": "Metal",
+    "color": [
+      0.08,
+      0.08,
+      0.075,
+      1
+    ],
+    "roughness": 0.45,
+    "metallic": 0.8
+  },
+  "rust": {
+    "name": "M_SJL_Metal_Rusted",
+    "family": "Metal",
+    "color": [
+      0.31,
+      0.1,
+      0.035,
+      1
+    ],
+    "roughness": 0.95,
+    "metallic": 0.15
+  },
+  "glass": {
+    "name": "M_SJL_Glass",
+    "family": "Glass",
+    "color": [
+      0.018,
+      0.035,
+      0.045,
+      1
+    ],
+    "roughness": 0.12,
+    "metallic": 0
+  },
+  "roof": {
+    "name": "M_SJL_RoofConcrete",
+    "family": "Concrete",
+    "color": [
+      0.32,
+      0.31,
+      0.28,
+      1
+    ],
+    "roughness": 0.95,
+    "metallic": 0
+  },
+  "asphalt": {
+    "name": "M_SJL_Asphalt",
+    "family": "Concrete",
+    "color": [
+      0.065,
+      0.06,
+      0.055,
+      1
+    ],
+    "roughness": 0.95,
+    "metallic": 0
+  },
+  "sidewalk": {
+    "name": "M_SJL_Sidewalk",
+    "family": "Concrete",
+    "color": [
+      0.34,
+      0.33,
+      0.3,
+      1
+    ],
+    "roughness": 0.95,
+    "metallic": 0
+  },
+  "plastic": {
+    "name": "M_SJL_Plastic",
+    "family": "Paint",
+    "color": [
+      0.03,
+      0.04,
+      0.05,
+      1
+    ],
+    "roughness": 0.6,
+    "metallic": 0
+  }
+}

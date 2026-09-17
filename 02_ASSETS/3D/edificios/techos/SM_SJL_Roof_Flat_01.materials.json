@@ -1,0 +1,8 @@
+{
+  "schema": 1,
+  "mesh": "SM_SJL_Roof_Flat_01",
+  "slots": [
+    "M_SJL_RoofConcrete"
+  ],
+  "custom_collision": false
+}

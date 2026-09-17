@@ -1,0 +1,8 @@
+{
+  "schema": 1,
+  "mesh": "SM_SJL_BrickStack_01",
+  "slots": [
+    "M_SJL_Brick_Red"
+  ],
+  "custom_collision": false
+}

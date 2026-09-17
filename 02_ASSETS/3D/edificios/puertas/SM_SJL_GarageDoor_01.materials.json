@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "mesh": "SM_SJL_GarageDoor_01",
+  "slots": [
+    "M_SJL_Metal",
+    "M_SJL_Concrete"
+  ],
+  "custom_collision": false
+}

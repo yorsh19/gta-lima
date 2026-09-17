@@ -1,0 +1,8 @@
+{
+  "schema": 1,
+  "mesh": "SM_SJL_Beam_025",
+  "slots": [
+    "M_SJL_Concrete"
+  ],
+  "custom_collision": true
+}

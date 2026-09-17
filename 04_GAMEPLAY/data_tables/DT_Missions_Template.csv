@@ -1,0 +1,3 @@
+MissionID,Title,ObjectiveType,TargetID,TargetCount,RewardMoney,NextMissionID
+M001,ParaderoDeSupervivencia,TalkToNPC,NPC_Cobrador_01,1,25,M002
+M002,SubeALaCombi,UseTransport,CombiRoute_A,1,40,

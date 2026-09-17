@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "mesh": "SM_SJL_Roof_Unfinished_01",
+  "slots": [
+    "M_SJL_RoofConcrete",
+    "M_SJL_Metal"
+  ],
+  "custom_collision": false
+}
